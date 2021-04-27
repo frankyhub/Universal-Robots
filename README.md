@@ -6,4 +6,4 @@ Stiftaufnahme für den Roboterarm
 
 OpenSCAD-Zeichnung
 
-https://github.com/frankyhub/Universal-Robots/blob/main/Stiftaufnahme/Roboterarm-Aufnahme.png
+![imgage](https://github.com/frankyhub/Universal-Robots/blob/main/Stiftaufnahme/Roboterarm-Aufnahme.png)
