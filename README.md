@@ -7,3 +7,7 @@ Stiftaufnahme für den Roboterarm
 OpenSCAD-Zeichnung
 
 ![imgage](https://github.com/frankyhub/Universal-Robots/blob/main/Stiftaufnahme/Roboterarm-Aufnahme.png)
+
+OpenSCAD-Zeichnung Aussparung der M4 Mutter für die Stift-Befestigung
+
+![imgage](https://github.com/frankyhub/Universal-Robots/blob/main/Stiftaufnahme/Aussparung-Mutter.png)
